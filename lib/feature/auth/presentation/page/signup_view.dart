@@ -95,7 +95,7 @@ class _RegisterViewState extends State<RegisterView> {
                       controller: _emailController,
                       textAlign: TextAlign.end,
                       decoration: const InputDecoration(
-                        hintText: 'Sayed@example.com',
+                        hintText: 'Ahmed@example.com',
                         prefixIcon: Icon(Icons.email_rounded),
                       ),
                       validator: (value) {
