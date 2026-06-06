@@ -185,7 +185,7 @@ appointments/
 
 **أحمد عيد عبد الصادق**  
 Flutter Developer  
-📍 قنا، مصر
+📍 اسوان، مصر
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed24E-181717?logo=github)](https://github.com/ahmed24E)
 
