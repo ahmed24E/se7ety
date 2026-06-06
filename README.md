@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ahmed24E/se7ety/main/assets/logo.png" alt="Se7ety Logo" width="120" height="120" onerror="this.style.display='none'"/>
@@ -201,3 +202,8 @@ Flutter Developer
 صُنع بـ ❤️ وـ Flutter في مصر 🇪🇬
 
 </div>
+=======
+# se7ety_123
+
+A new Flutter project.
+>>>>>>> 6b47441972e9b2bf08df274ec1434acaef537b54
